@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-29f98fe4","path":"/blogs/shenghuo/2023 nianduzongjie.html","title":"2023 年度总结","lang":"en-US","frontmatter":{"title":"2023 年度总结","date":"2023-12-31T00:00:00.000Z","categories":["生活"]},"headers":[],"git":{},"filePathRelative":"blogs/生活/2023 年度总结.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-71ec8458","path":"/docs/wangluo/net-1.html","title":"","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"计算机网络协议分层","slug":"计算机网络协议分层","link":"#计算机网络协议分层","children":[]},{"level":2,"title":"OSI 七层结构","slug":"osi-七层结构","link":"#osi-七层结构","children":[]}],"git":{},"filePathRelative":"docs/网络/net-1.md"}');export{e as data};
