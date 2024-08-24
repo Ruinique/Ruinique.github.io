@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-12f70fbc","path":"/docs/JVM/JVM-2.html","title":"Java 垃圾回收和内存分配","lang":"en-US","frontmatter":{"title":"Java 垃圾回收和内存分配"},"headers":[{"level":2,"title":"对象存活的判定方式","slug":"对象存活的判定方式","link":"#对象存活的判定方式","children":[]}],"git":{},"filePathRelative":"docs/JVM/JVM-2.md"}');export{t as data};
