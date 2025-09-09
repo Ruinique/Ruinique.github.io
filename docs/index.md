@@ -5,12 +5,12 @@ layout: home
 hero:
   name: "Ruinique's Wiki"
   text: "Wiki built by Ruinique"
-
-features:
-  - title: Feature
-    details: Just the post of Ruinique's Wiki
 ---
 
-<!--@include: ./class/index.md-->
+:::warning Class
+[Click here](/class/)
+:::
 
-<!--@include: ./env/index.md-->
+:::tip Enviroment
+[Click here](/env/)
+:::
