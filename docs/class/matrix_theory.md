@@ -2,7 +2,7 @@
 title: 矩阵理论
 ---
 
-# 矩阵理论
+# {{ $frontmatter.title }}
 
 ## 线性空间及其分解
 

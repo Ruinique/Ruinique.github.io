@@ -2,6 +2,7 @@
 title: 基于成都超算环境的 DCU 环境申请 SOP
 ---
 
+# {{ $frontmatter.title }}
 
 首先登陆到 `login` 界面，我们可以看到我们可以访问的队列 `normal`。
 
