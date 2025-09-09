@@ -11,3 +11,6 @@ features:
     details: Just the post of Ruinique's Wiki
 ---
 
+<!--@include: ./class/index.md-->
+
+<!--@include: ./env/index.md-->
